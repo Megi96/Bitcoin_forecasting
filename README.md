@@ -5,7 +5,7 @@
 A full pipeline that trains a stacked GRU (Gated Recurrent Unit) network to predict the BTC/USD close price **1 hour into the future**, using the **past 24 hours** of 1-minute OHLCV candles from Coinbase and Bitstamp.
 
 ---
-
+###TRY  THE DEMO HERE https://huggingface.co/spaces/Megi96/Bitcoin_Forecast
 ## Files
 
 | File | Purpose |
